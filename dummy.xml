@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="dummy" generator-info-url="https://dummy.com/">
+    <channel id="CBSNewsDummy.us">
+        <display-name>CBS News</display-name>
+    </channel>
+    <programme start="XXXXXXXX000000 +0000" stop="XXXXXXXX060000 +0000" channel="CBSNewsDummy.us">
+        <title lang="">CBS News 24/7 Live</title>
+        <desc lang="">CBS News - Breaking news, 24/7 live streaming news and top stories</desc>
+    </programme>
+    <programme start="XXXXXXXX060000 +0000" stop="XXXXXXXX120000 +0000" channel="CBSNewsDummy.us">
+        <title lang="">CBS News 24/7 Live</title>
+        <desc lang="">CBS News - Breaking news, 24/7 live streaming news and top stories</desc>
+    </programme>
+    <programme start="XXXXXXXX120000 +0000" stop="XXXXXXXX180000 +0000" channel="CBSNewsDummy.us">
+        <title lang="">CBS News 24/7 Live</title>
+        <desc lang="">CBS News - Breaking news, 24/7 live streaming news and top stories</desc>
+    </programme>
+    <programme start="XXXXXXXX180000 +0000" stop="XXXXXXXX240000 +0000" channel="CBSNewsDummy.us">
+        <title lang="">CBS News 24/7 Live</title>
+        <desc lang="">CBS News - Breaking news, 24/7 live streaming news and top stories</desc>
+    </programme>
+    <programme start="YYYYYYYY000000 +0000" stop="YYYYYYYY060000 +0000" channel="CBSNewsDummy.us">
+        <title lang="">CBS News 24/7 Live</title>
+        <desc lang="">CBS News - Breaking news, 24/7 live streaming news and top stories</desc>
+    </programme>
+    <programme start="YYYYYYYY060000 +0000" stop="YYYYYYYY120000 +0000" channel="CBSNewsDummy.us">
+        <title lang="">CBS News 24/7 Live</title>
+        <desc lang="">CBS News - Breaking news, 24/7 live streaming news and top stories</desc>
+    </programme>
+    <programme start="YYYYYYYY120000 +0000" stop="YYYYYYYY180000 +0000" channel="CBSNewsDummy.us">
+        <title lang="">CBS News 24/7 Live</title>
+        <desc lang="">CBS News - Breaking news, 24/7 live streaming news and top stories</desc>
+    </programme>
+    <programme start="YYYYYYYY180000 +0000" stop="YYYYYYYY240000 +0000" channel="CBSNewsDummy.us">
+        <title lang="">CBS News 24/7 Live</title>
+        <desc lang="">CBS News - Breaking news, 24/7 live streaming news and top stories</desc>
+    </programme>
+
+</tv>
